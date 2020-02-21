@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AskSinAnalyzer-rescue)(type Legacy)(uri ${KIPRJMOD}/AskSinAnalyzer-rescue.lib)(options "")(descr ""))
+)

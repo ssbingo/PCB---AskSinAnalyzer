@@ -1,0 +1,34 @@
+Drill report for H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\AskSinAnalyzer.kicad_pcb
+Created on 26.09.2019 18:13:56
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'AskSinAnalyzer-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (3 holes)
+    T2  0,50mm  0,020"  (32 holes)
+    T3  0,60mm  0,024"  (4 holes)
+    T4  0,76mm  0,030"  (18 holes)
+    T5  0,80mm  0,031"  (14 holes)
+    T6  0,90mm  0,035"  (4 holes)
+    T7  1,00mm  0,039"  (40 holes)  (with 3 slots)
+    T8  1,04mm  0,041"  (45 holes)
+    T9  1,10mm  0,043"  (4 holes)
+    T10  1,50mm  0,059"  (1 hole)
+    T11  3,00mm  0,118"  (6 holes)
+    T12  3,20mm  0,126"  (4 holes)
+
+    Total plated holes count 175
+
+
+Drill file 'AskSinAnalyzer-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3,20mm  0,126"  (4 holes)
+
+    Total unplated holes count 4

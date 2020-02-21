@@ -1,0 +1,9 @@
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-F.Cu.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-B.Cu.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-F.Paste.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-B.Paste.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-F.SilkS.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-B.SilkS.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-F.Mask.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-B.Mask.gbr“ erstellt.
+Plot-Datei „H:\Eigene Platinen (KiCAD)\Projekte\In Bearbeitung\AskSinAnalyzer V2\Platine\Gerber\AskSinAnalyzer-Edge.Cuts.gbr“ erstellt.
