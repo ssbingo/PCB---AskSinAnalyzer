@@ -41,7 +41,7 @@ AskSinnAnalyzer in Betrieb<br>
 ### Die benötigten Bauteile
 | Bauteil | Link |
 | --------|------|
-| | |
+|Bauteilliste Reichelt|[:arrow_right: Reichelt](https://www.reichelt.de/my/1678090) |
 
 
 ## Hinweise
