@@ -42,6 +42,8 @@ AskSinnAnalyzer in Betrieb<br>
 | Bauteil | Link |
 | --------|------|
 |Bauteilliste Reichelt|[:arrow_right: Reichelt](https://www.reichelt.de/my/1678090) |
+|Arduinio Pro mini 3.3V | |
+|Funkmodul CC1101| |
 
 
 ## Hinweise
